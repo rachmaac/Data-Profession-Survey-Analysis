@@ -1,4 +1,4 @@
-<!NOTE>This is Rachma Chrysanti's first project in analysis using Power BI
+This is Rachma Chrysanti's first project in analysis using Power BI
 
 File description:
 <br>Power BI - Final Project.xlsx --> The data survey from Alex The Analyst. Link: <https://github.com/AlexTheAnalyst><br/>
